@@ -1,6 +1,7 @@
 import java.util.Scanner; // IMPORTANDO O SCANNER PARA ENTRADA DE DADOS 
 
 //alterado da web
+//alterado do netbeans
 
 public class Hotel {
 
